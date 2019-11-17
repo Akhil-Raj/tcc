@@ -1,0 +1,2 @@
+Work: Trying to train it on custom dataset instead of repo's dataset to save memory and time
+Error: Config file imported by datasets.py is wrong and hence tfrecods path is getting wrongly provided
